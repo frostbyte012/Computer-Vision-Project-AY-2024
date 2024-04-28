@@ -48,3 +48,6 @@ The emotion recognition is powered by a pre-trained Keras model based on expNet 
 
 ## Disclaimer
 This app is intended for educational purposes only.
+
+## Download APK Android App
+https://drive.google.com/file/d/1ig5AAoiWI7onYKzbVmvNeaulM1i9CGVQ/view?usp=sharing
