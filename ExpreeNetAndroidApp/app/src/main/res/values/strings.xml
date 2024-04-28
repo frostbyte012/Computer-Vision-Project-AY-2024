@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emotion Detector</string>
+    <string name="hello">Welcome to our FAce Detector App</string>
+    <string name="processing_image">Processing Image...</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="ok">OK</string>
+    <string name="camera">Capture Image</string>
+</resources>
