@@ -1,4 +1,4 @@
-<h1>Express Net Desktop App</h1>
+<h1>Express Net Desktop App and Face Emotion Recognition Android App</h1>
 <img src="https://github.com/frostbyte012/APNI_MITRA/blob/main/assets/GIFS/2022-04-12-04-05-25.gif" alt="Your image url" width="1000" height="500">
 <h2>Tech Used:</h2>
 <h3>
@@ -14,7 +14,7 @@ A Deep Learning Model that instantly recognizes your emotions and mental health 
 
 Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
-# Express Net : Face Emotion Recognition Android App
+# Android App 
 
 This Android application uses a pre-trained Keras model converted to TensorFlow Lite (TFLite) to detect faces in images and assign emotions to them.
 
